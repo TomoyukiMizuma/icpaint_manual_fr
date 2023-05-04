@@ -246,6 +246,7 @@ nav:
   - masque de calque:         layer_mask.md
   - brosse:                   brush.md
   - règle (brosse):           ruler_brush.md
+  - brosse de la courbe:      curve_brush.md
   - peindre avec des formes variées(rectangle, cercle, lasso, polygone): paint_with_shapes.md
   - transformation:           transform.md
   - calque vectoriel:         vector_layer.md
